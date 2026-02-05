@@ -53,4 +53,3 @@ Adjust commands as needed for your environment.
 - `portainer-compose.yaml` — Docker Compose file for Portainer/service management.
 - `ollama-open-webiui-composer.yaml` — another compose-like configuration included in the repo.
 
-If you'd like, I can expand the README with usage examples specific to each script or add checks that ensure `jetson-containers` is installed before running the scripts.
