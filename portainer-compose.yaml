@@ -17,5 +17,5 @@ networks:
   default:
     name: portainer_network
 
-# admin user: S3c4356ur63eP@ssw0rd!
+
 # docker compose -f portainer-compose.yaml up -d
